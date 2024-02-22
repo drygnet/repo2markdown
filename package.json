@@ -1,0 +1,26 @@
+{
+  "name": "repo2markdown",
+  "version": "1.0.0",
+  "description": "Dump a git repo to markdown to feed it to a large context LLM",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drygnet/repo2markdown.git"
+  },
+  "keywords": [
+    "LLM",
+    "GIT",
+    "MD",
+    "Markdown"
+  ],
+  "author": "Johan Blomgren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drygnet/repo2markdown/issues"
+  },
+  "homepage": "https://github.com/drygnet/repo2markdown#readme"
+}
